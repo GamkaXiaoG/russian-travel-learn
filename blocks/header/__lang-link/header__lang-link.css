@@ -5,10 +5,11 @@
     line-height: 28px;
     transition: opacity .3s ease-in-out;
     display: inline-block;
+    margin-right: 18px;
 }
 
-.header__lang-link:first-child {
-    margin-right: 18px;
+.header__lang-link:last-child {
+    margin-right: 0;
 }
 
 .header__lang-link:hover {

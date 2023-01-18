@@ -2,3 +2,31 @@
     max-width: 984px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+    .wrapper {
+        max-width: 1042px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .wrapper {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .wrapper {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .wrapper {
+        max-width: 320px;
+        margin: 0 auto;
+    }
+}

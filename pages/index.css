@@ -2,11 +2,11 @@
 @import url(../vendor/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/links/links.css);
 @import url(../blocks/wrapper/wrapper.css);
 @import url(../blocks/wrapper-flex/wrapper-flex.css);
 @import url(../blocks/wrapper-flex/__header/wrapper-flex__header.css);
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/main/main.css);
@@ -41,5 +41,6 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__link-li/footer__link-li.css);
 @import url(../blocks/footer/__flex/footer__flex.css);
 
