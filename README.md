@@ -11,3 +11,7 @@
 
 1) HTML
 2) CSS (With media queries)
+
+## 🔗 Link on github-pages
+
+https://gamkaxiaog.github.io/russian-travel-learn/
