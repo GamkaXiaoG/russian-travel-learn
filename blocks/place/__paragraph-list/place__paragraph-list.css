@@ -4,7 +4,7 @@
 
 @media screen and (max-width: 320px) {
     .place__paragraph-list {
-        max-width: 288px;
+        width: calc(100% - 16px*2);
         margin: 0 auto;
     }
 }

@@ -2,7 +2,6 @@
 @import url(../vendor/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/margin-r-l/margin-r-l.css);
 @import url(../blocks/wrapper/wrapper.css);
 @import url(../blocks/wrapper-flex/wrapper-flex.css);
 @import url(../blocks/wrapper-flex/__header/wrapper-flex__header.css);

@@ -35,6 +35,7 @@
     .cover {
         min-height: 640px;
         max-width: 1024px;
+        width: 100%;
         margin-bottom: 92px;
     }
 }
@@ -43,7 +44,15 @@
     .cover {
         min-height: 480px;
         max-width: 768px;
-        margin-bottom: 88px;
+        width: 100%;
+        margin-bottom: 92px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .cover {
+        min-height: 200px;
+        margin-bottom: 64px;
     }
 }
 
@@ -51,6 +60,7 @@
     .cover {
         min-height: 200px;
         max-width: 320px;
+        width: 100%;
         margin-bottom: 64px;
     }
 }
