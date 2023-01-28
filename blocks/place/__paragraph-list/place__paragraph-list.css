@@ -2,9 +2,10 @@
     max-width: 484px;
 }
 
-@media screen and (max-width: 320px) {
+
+
+@media screen and (max-width: 580px) {
     .place__paragraph-list {
-        width: calc(100% - 16px*2);
-        margin: 0 auto;
+        padding: 0 16px;
     }
 }
